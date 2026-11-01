@@ -1,0 +1,6 @@
+{
+  "name": "Bondhu Mohol Somiti",
+  "description": "বন্ধু মহল সমিতি - সঞ্চয়, ঋণ ও সম্পূর্ণ আর্থিক ব্যবস্থাপনা অ্যাপ্লিকেশন",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
